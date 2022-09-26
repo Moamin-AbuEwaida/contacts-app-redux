@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contacts-app-redux/static/css/main.93491069.css",
+    "main.js": "/contacts-app-redux/static/js/main.ffa962d5.js",
+    "index.html": "/contacts-app-redux/index.html",
+    "main.93491069.css.map": "/contacts-app-redux/static/css/main.93491069.css.map",
+    "main.ffa962d5.js.map": "/contacts-app-redux/static/js/main.ffa962d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93491069.css",
+    "static/js/main.ffa962d5.js"
+  ]
+}
